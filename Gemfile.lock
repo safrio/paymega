@@ -51,8 +51,6 @@ GEM
     faraday-patron (1.0.0)
     faraday-rack (1.0.0)
     faraday-retry (1.0.3)
-    faraday_middleware (1.2.0)
-      faraday (~> 1.0)
     multipart-post (2.2.3)
     ruby2_keywords (0.0.5)
     zeitwerk (2.6.6)
@@ -65,7 +63,6 @@ DEPENDENCIES
   dry-schema
   dry-types
   faraday
-  faraday_middleware
 
 BUNDLED WITH
    2.3.7
